@@ -1,7 +1,7 @@
 {
     "name": "Diagnostics App Extension",
     "version": "1.0",
-    "permissions": ["tabs", "activeTab", "declarativeContent", "system.cpu", "alarms"],
+    "permissions": ["tabs", "system.cpu", "alarms"],
     "content_scripts": [
         {
           "matches": ["*://*/*"],
