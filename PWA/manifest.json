@@ -1,0 +1,26 @@
+{
+    "name": "Diagnostics App",
+    "short_name": "DiagnosticsApp",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#0000ff",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "assets/images/chrome/chrome-extensionmanagementpage-48-48.png",
+            "type": "image/png",
+            "sizes": "48X48"
+        },
+        {
+            "src": "assets/images/chrome/chrome-favicon-16-16.png",
+            "type": "image/png",
+            "sizes": "16X16"
+        },
+        {
+            "src": "assets/images/chrome/chrome-installprocess-128-128.png",
+            "type": "image/png",
+            "sizes": "16X16"
+        }
+    ]
+}
